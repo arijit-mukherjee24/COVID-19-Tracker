@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-Gets details of all cases, recovered and death across the globe.
+Gets details of all cases, recovered and death across the globe.<br />
 Live - https://covid-19-global-update.netlify.app/
 
 ## Dependent packages that needs to be installed 
